@@ -1,0 +1,15 @@
+.odd{
+    background-color: #eb3477;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#this{
+    color: #3a85c2;
+    font-size: 36px;
+}
+.the-other-thing{
+    font-size: 24px;
+}
+#that{
+    font-weight: bold;
+    background-color: #5de861;
+}
